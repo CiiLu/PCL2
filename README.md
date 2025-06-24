@@ -15,7 +15,7 @@
 [![Hits](https://hits.zkitefly.eu.org/?tag=https://github.com/PCL-Community/PCL2-CE)](https://hits.zkitefly.eu.org/?tag=https://github.com/PCL-Community/PCL2-CE&web=true)
 
 [社区版下载](https://github.com/PCL-Community/PCL2-CE/releases) |
-[官方存储库](https://github.com/Hex-Dragon/PCL2) |
+[官方存储库](https://github.com/Meloong-Git/PCL) |
 [帮助文档库](https://github.com/PCL-Community/PCL2CEHelp)
 
 [提交问题](https://github.com/PCL-Community/PCL2-CE/issues/new/choose) |
@@ -35,7 +35,7 @@
 
 ### ✨ 隐藏提示
 
-在配置项中添加 `UiLauncherCEHint` 字段，字段值为 `False` (文本型)
+在全局配置项中添加 `UiLauncherCEHint` 字段，字段值为 `False` (文本型)
 
 ## 🔒 许可证
 
