@@ -499,7 +499,6 @@ Public Class FormMain
         Resizer.addResizerRightUp(ResizerRT)
         Resizer.addResizerUp(ResizerT)
     End Sub
-
     Public Sub RemoveResizer()
         Resizer.removeAllResizers()
     End Sub
